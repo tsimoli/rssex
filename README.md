@@ -1,6 +1,5 @@
 # RSSReader
 
-
 ## Installation
 
 mix deps.get
